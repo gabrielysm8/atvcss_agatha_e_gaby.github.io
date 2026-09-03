@@ -46,3 +46,9 @@ body {
   text-align: center;
   border-radius: 6px;
 }
+
+.botao {
+  background-color: #901394;
+  padding: 20px;
+  border-radius: 12px;
+}
