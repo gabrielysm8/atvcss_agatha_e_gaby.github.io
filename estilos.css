@@ -52,10 +52,12 @@ body {
   padding: 20px;
   border-radius: 12px;
   display: inline-block;
+  gap: 15px;
 }
 
 .cartoes1 {
   display: flex;
   justify-content: center;
   align-items: center;
+  gap: 15px;
 }
