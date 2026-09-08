@@ -74,17 +74,16 @@ body {
   border-radius: 6px;
 }
 
-
 .botao {
-  background-color: #f74df4;
   padding: 20px;
   border-radius: 12px;
   display: inline-block;
   gap: 15px;
 }
 
-.cartoes5 {
+.cartao5 {
   display: flex;
+  background-color: #4d6cf7;
   justify-content: center;
   align-items: center;
   gap: 15px;
