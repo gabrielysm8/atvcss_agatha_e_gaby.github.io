@@ -50,6 +50,7 @@ body {
   background-color: #901394;
   padding: 20px;
   border-radius: 12px;
+  display: inline-block;
 }
 
 .cartoes1 {
